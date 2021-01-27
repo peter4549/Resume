@@ -1,1 +1,1 @@
-# 김 성 주 Seong Ju Kim
+# 김성주 SEONGJU KIM
