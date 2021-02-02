@@ -30,12 +30,17 @@ YouTube Data API의 할당량을 조절하기 위해서도 사용합니다.
 3. UI 및 테마
 * 다크 모드를 지원합니다.
 * 테마 색상을 적용할 수 있습니다.
+* 오픈소스 라이브러리를 통한 UI를 구현합니다.
+Observable ScrollView
 
 4. Firebase
 채널 정보는 Firebase Firestore를 통해 관리됩니다.</b>
 위의 로컬 데이터베이스로 관리되는 대상은 비디오 및 플레이리스트입니다.
 * 버전 관리
 파이어베이스의 remote config를 사용하여 버전 업데이트를 유저들에게 알립니다.
+
+5. Play Store
+[비디오 다이어리]https://play.google.com/store/apps/details?id=com.duke.elliot.youtubediary
 
 
 ## Papers
