@@ -13,7 +13,7 @@ https://github.com/peter4549/Resume/blob/main/papers/%EC%9E%90%ED%8F%90%EC%8A%A4
 
 ## Android Applications
 ### 비디오 다이어리
-유튜브 비디오를 다이어리에 등록하고 그에 따른 내용을 작성할 수 있는 애플리케이션.
+유튜브 비디오를 다이어리에 등록하고 그에 따른 내용을 작성할 수 있는 애플리케이션입니다.
 ### Features
 1. 유튜브 비디오 가져오기</br>
 구글 계정을 통하여 OAuth2 인증 토큰을 유튜브 데이터 API로 요청합니다.</br>
@@ -25,6 +25,7 @@ https://github.com/peter4549/Resume/blob/main/papers/%EC%9E%90%ED%8F%90%EC%8A%A4
 <img src="images/youtube-diary/playlist.jpg" width="160px" height="300px" title="Playlist" alt="Playlist"></img></br>
 수신한 Access code와 함께 YouTube Data API로 채널 정보를 요청하면 해당 계정의 유튜브 계정(브랜드 계정 포함)을 수신합니다.</br>
 채널 정보를 수신했으니 플레이리스트 및 자신이 등록한 비디오에 접근할 수 있습니다.
-#### Dependencies
-Retrofit2</br>
-Coroutines Adapter</br>
+
+2. 로컬 데이터 베이스
+작성된 다이어리를 로컬 데이터 베이스에 저장합니다. </br>
+Room database를 사용합니다.
