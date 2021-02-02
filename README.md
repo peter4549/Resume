@@ -16,7 +16,7 @@ https://github.com/peter4549/Resume/blob/main/papers/%EC%9E%90%ED%8F%90%EC%8A%A4
 유튜브 비디오를 다이어리에 등록하고 그에 따른 내용을 작성할 수 있는 애플리케이션.
 ### Features
 1. 유튜브 비디오 가져오기</br>
-구글 계정을 통하여 OAuth2 인증 토큰을 유튜브 데이터 API로 요청
+구글 계정을 통하여 OAuth2 인증 토큰을 유튜브 데이터 API로 요청</br>
 <img src="images/youtube-diary/splash.jpg" width="200px" height="400px" title="Splash" alt="Splash"></img><br/>
 수신한 토큰을 사용하여 유튜브 Access code를 요청 </br>
 수신한 Access code와 함께 YouTube Data API로 채널 정보를 요청하면 해당 계정의 유튜브 계정(브랜드 계정 포함)을 수신합니다.</br>
