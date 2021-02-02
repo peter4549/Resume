@@ -4,13 +4,6 @@
 동아대학교 전자공학과 졸업 (2013.03 ~ 2019.02)</br>
 성도고등학교 졸업 (2010.02 ~ 2012.12)
 
-## Papers
-1. 3축 가속도 센서를 이용한 낙상 인지 및 사후처리 시스템</br>
-https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07614256&language=ko_KR&language=ko_KR#</br>
-
-2. 자폐스펙트럼장애 영유아의 음성 특징에 관한 연구
-https://github.com/peter4549/Resume/blob/main/papers/%EC%9E%90%ED%8F%90%EC%8A%A4%ED%8E%99%ED%8A%B8%EB%9F%BC%EC%9E%A5%EC%95%A0%20%EC%98%81%EC%9C%A0%EC%95%84%EC%9D%98%20%EC%9D%8C%EC%84%B1%20%ED%8A%B9%EC%A7%95%EC%97%90%20%EA%B4%80%ED%95%9C%20%EC%97%B0%EA%B5%AC.pdf
-
 ## Android Applications
 ### 비디오 다이어리
 유튜브 비디오를 다이어리에 등록하고 그에 따른 내용을 작성할 수 있는 애플리케이션입니다.
@@ -34,5 +27,21 @@ YouTube Data API의 할당량을 조절하기 위해서도 사용합니다.
 그를 조절하기 위해서 마지막으로 업데이트한 시간 기준으로 3시간이 경과한 뒤에만 API를 요청합니다.</br>
 3시간 이내에 애플리케이션을 실행한다면 로컬 데이터 베이스에서 비디오 데이터를 가져옵니다.
 
+3. UI 및 테마
+* 다크 모드를 지원합니다.
+* 테마 색상을 적용할 수 있습니다.
 
+4. Firebase
+채널 정보는 Firebase Firestore를 통해 관리됩니다.</b>
+위의 로컬 데이터베이스로 관리되는 대상은 비디오 및 플레이리스트입니다.
+* 버전 관리
+파이어베이스의 remote config를 사용하여 버전 업데이트를 유저들에게 알립니다.
+
+
+## Papers
+1. 3축 가속도 센서를 이용한 낙상 인지 및 사후처리 시스템</br>
+https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07614256&language=ko_KR&language=ko_KR#</br>
+
+2. 자폐스펙트럼장애 영유아의 음성 특징에 관한 연구
+https://github.com/peter4549/Resume/blob/main/papers/%EC%9E%90%ED%8F%90%EC%8A%A4%ED%8E%99%ED%8A%B8%EB%9F%BC%EC%9E%A5%EC%95%A0%20%EC%98%81%EC%9C%A0%EC%95%84%EC%9D%98%20%EC%9D%8C%EC%84%B1%20%ED%8A%B9%EC%A7%95%EC%97%90%20%EA%B4%80%ED%95%9C%20%EC%97%B0%EA%B5%AC.pdf
 
