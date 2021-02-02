@@ -40,7 +40,7 @@ Observable ScrollView
 파이어베이스의 remote config를 사용하여 버전 업데이트를 유저들에게 알립니다.
 
 5. Play Store
-[비디오 다이어리]https://play.google.com/store/apps/details?id=com.duke.elliot.youtubediary
+[비디오 다이어리]:https://play.google.com/store/apps/details?id=com.duke.elliot.youtubediary
 
 
 ## Papers
