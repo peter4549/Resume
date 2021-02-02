@@ -20,8 +20,8 @@ https://github.com/peter4549/Resume/blob/main/papers/%EC%9E%90%ED%8F%90%EC%8A%A4
 보안 문제로 WebView에서 인증을 진행할 수 없어 CustomTabView를 사용합니다.</br></br>
 <img src="images/youtube-diary/splash.jpg" width="160px" height="300px" title="Splash" alt="Splash"></img>
 <img src="images/youtube-diary/authentication_00.jpg" width="160px" height="300px" title="Authentication1" alt="Authentication1"></img>
-<img src="images/youtube-diary/authentication_01.jpg" width="160px" height="300px" title="Authentication2" alt="Authentication2"></img></br>
-수신한 토큰을 사용하여 유튜브 Access code를 요청합니다. </br>
+<img src="images/youtube-diary/authentication_01.jpg" width="160px" height="300px" title="Authentication2" alt="Authentication2"></img></br></br>
+수신한 토큰을 사용하여 유튜브 Access code를 요청합니다. </br></br>
 <img src="images/youtube-diary/playlist.jpg" width="160px" height="300px" title="Playlist" alt="Playlist"></img></br>
 수신한 Access code와 함께 YouTube Data API로 채널 정보를 요청하면 해당 계정의 유튜브 계정(브랜드 계정 포함)을 수신합니다.</br>
 채널 정보를 수신했으니 플레이리스트 및 자신이 등록한 비디오에 접근할 수 있습니다.
