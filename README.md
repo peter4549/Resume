@@ -7,7 +7,7 @@
 ## Android Applications
 ### 짭카오톡
 #### Description
-카카오톡과 같은 SMS 애플리케이션입니다.
+카카오톡과 유사한 SMS 애플리케이션입니다.
 
 #### Features
 소셜 로그인
@@ -23,6 +23,10 @@
 * Firebase Phone Auth를 사용하여 유저의 기기로 인증번호를 발송하고 입력하도록 하여 본인인증을 구현했습니다.
 클라우드 메시징
 * Firebase Cloud Messaging을 통해 채팅 메시지를 상대방의 기기로 전송합니다.
+* Notification 클릭 시 채팅방으로 이동합니다.
+
+### Play Store
+https://play.google.com/store/apps/details?id=com.grand.duke.elliot.jjabkaotalk
 
 ### 포토 다이어리
 사진, 동영상, 오디오 및 현재 위치 등을 함께 기록할 수 있는 다이어리 애플리케이션입니다.
