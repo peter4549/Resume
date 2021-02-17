@@ -12,7 +12,7 @@
 #### Features
 소셜 로그인
 * Firebase에서 직접적으로 API를 지원하는 페이스북과 구글 로그인을 구현했습니다.
-* Firebase의 Functions을 이용하여 Firebase API에서 직접적으로 지원하지 않는 네이버와 카카오 로그인을 구현했습니다.
+* Firebase의 Functions을 이용하여 Firebase API에서 직접적으로 지원하지 않는 네이버와 카카오 로그인을 구현했습니다.</br>
 <img src="images/jjabkaotalk/social_login.jpg" width="160px" height="300px" title="Social Login" alt="Social Login"></img>
 <img src="images/jjabkaotalk/sign_in_00.jpg" width="160px" height="300px" title="Sign-In" alt="Sign-In"></img>
 <img src="images/jjabkaotalk/sign_in_01.jpg" width="160px" height="300px" title="Sign-In" alt="Sign-In"></img></br></br>
@@ -25,7 +25,7 @@
 <img src="images/jjabkaotalk/profile_00.jpg" width="160px" height="300px" title="Profile" alt="Profile"></img>
 <img src="images/jjabkaotalk/friends_00.jpg" width="160px" height="300px" title="Friends" alt="Friends"></img>
 <img src="images/jjabkaotalk/chat_00.jpg" width="160px" height="300px" title="Chat" alt="Chat"></img>
-<img src="images/jjabkaotalk/unread.jpg" width="160px" height="300px" title="Unread" alt="Unread"></img></br></br>
+<img src="images/jjabkaotalk/unread_00.jpg" width="160px" height="300px" title="Unread" alt="Unread"></img></br></br>
 
 본인인증
 * Firebase Phone Auth를 사용하여 유저의 기기로 인증번호를 발송하고 입력하도록 하여 본인인증을 구현했습니다.
