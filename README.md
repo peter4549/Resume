@@ -10,14 +10,14 @@
 카카오톡과 유사한 SMS 애플리케이션입니다.
 
 #### Features
-##### 소셜 로그인
+1. 소셜 로그인
 * Firebase에서 직접적으로 API를 지원하는 페이스북과 구글 로그인을 구현했습니다.
 * Firebase의 Functions을 이용하여 Firebase API에서 직접적으로 지원하지 않는 네이버와 카카오 로그인을 구현했습니다.</br></br>
 <img src="images/jjabkaotalk/social_login.jpg" width="160px" height="300px" title="Social Login" alt="Social Login"></img>
 <img src="images/jjabkaotalk/sign_in_00.jpg" width="160px" height="300px" title="Sign-In" alt="Sign-In"></img>
 <img src="images/jjabkaotalk/sign_in_01.jpg" width="160px" height="300px" title="Sign-In" alt="Sign-In"></img></br></br>
 
-##### 프로필 생성, 친구 추가
+2. 프로필 생성, 친구 추가
 ##### 채팅방 생성, 채팅, 채팅방 나가기
 * Firestore Query를 사용하여 지역별 오픈 채팅방을 구현했습니다.
 * Firebase Firestore를 사용하여 채팅, 프로필 생성, 친구 추가 기능을 구현했습니다.
@@ -27,11 +27,11 @@
 <img src="images/jjabkaotalk/chat_00.jpg" width="160px" height="300px" title="Chat" alt="Chat"></img>
 <img src="images/jjabkaotalk/unread_00.jpg" width="160px" height="300px" title="Unread" alt="Unread"></img></br></br>
 
-본인인증
+3. 본인인증
 * Firebase Phone Auth를 사용하여 유저의 기기로 인증번호를 발송하고 입력하도록 하여 본인인증을 구현했습니다.</br></br>
 <img src="images/jjabkaotalk/phone_auth.jpg" width="160px" height="300px" title="Auth" alt="Auth"></img></br></br>
 
-클라우드 메시징
+4. 클라우드 메시징
 * Firebase Cloud Messaging을 통해 채팅 메시지를 상대방의 기기로 전송합니다.
 * Notification 클릭 시 채팅방으로 이동합니다.</br>
 <img src="images/jjabkaotalk/cloud_message_00.jpg" width="160px" height="300px" title="Cloud" alt="Cloud"></img></br></br>
@@ -44,47 +44,45 @@ https://play.google.com/store/apps/details?id=com.grand.duke.elliot.jjabkaotalk
 사진, 동영상, 오디오 및 현재 위치 등을 함께 기록할 수 있는 다기능 다이어리 애플리케이션입니다.
 
 #### Features
+1. 구글 맵
 * 지도 정보를 다이어리에 저장할 수 있습니다.
 * 구글맵 API를 사용하여 현재 위치 정보를 가져올 수 있습니다.</br>
 <img src="images/photo_diary/map.jpg" width="160px" height="300px" title="Map" alt="Map"></img></br></br>
 
-#### 다양한 미디어 등록을 지원합니다.
+2. 다양한 미디어 등록을 지원합니다.
 * 사진, 동영상 및 음성 파일을 지원합니다.
 * 오픈소스 라이브러리를 이용한 그림 그리기 및 사진 편집 기능을 지원합니다.
-* 폴더와 해시태그 및 날씨를 지정할 수 있습니다.</br>
+* 폴더와 해시태그 및 날씨를 지정할 수 있습니다.
+* 노트별로 텍스트 테마를 지정할 수 있습니다.
+* 무료 폰트와 색상, 정렬 및 스타일을 지원합니다.</br></br>
 <img src="images/photo_diary/writing.jpg" width="160px" height="300px" title="Writing" alt="Writing"></img>
 <img src="images/photo_diary/image_edit.jpg" width="160px" height="300px" title="Edit" alt="Edit"></img>
 <img src="images/photo_diary/image_crop.jpg" width="160px" height="300px" title="Crop" alt="Crop"></img></br></br>
 
-#### 공유
-문자, 이메일 및 카카오톡으로 작성한 노트를 공유할 수 있습니다.
-페이스북 API를 사용하여 페이스북 게시글로 export 할 수 있습니다.
+3. 공유
+* 문자, 이메일 및 카카오톡으로 작성한 노트를 공유할 수 있습니다.
+* 페이스북 API를 사용하여 페이스북 게시글로 export 할 수 있습니다.
 
-노트별로 텍스트 테마를 지정할 수 있습니다.
-무료 폰트와 색상, 정렬 및 스타일을 지원합니다.
-
-데이터 백업을 지원합니다.
+4. 데이터 백업을 지원합니다.
 * 등록된 계정의 구글 드라이브에 데이터를 백업할 수 있습니다.
 * 디바이스 저장소에 데이터를 백업할 수 있습니다.
 <img src="images/photo_diary/backup.jpg" width="160px" height="300px" title="Crop" alt="Crop"></img></br></br>
 
-잠금 화면을 지원합니다.
+5. 잠금 화면을 지원합니다.
 * 보안을 위해 잠금 화면을 설정할 수 있습니다.
 * 지문 인식 기능을 지원합니다.
 * 비밀번호 찾기 기능을 지원합니다.</br></br>
 <img src="images/photo_diary/lock_screen.jpg" width="160px" height="300px" title="Lock" alt="Lock"></img>
 <img src="images/photo_diary/lock_screen2.jpg" width="160px" height="300px" title="Lock" alt="Lock"></img></br></br>
 
-테마 지원
+6. 테마 지원
 * 폰트, 색상 및 야간 모드 테마를 지원합니다.
+<img src="images/photo_diary/drawer.jpg" width="160px" height="300px" title="drawer" alt="drawer"></img></br></br>
 
-캘린더
+7. 캘린더
 오픈소스 라이브러리를 이용한 캘린더를 지원합니다.
 특정일에 다이어리를 작성할 수 있고, 기념일을 등록할 수 있습니다.
-
-알림
-일일 알림을 설정할 수 있습니다.
-
+<img src="images/photo_diary/calendar.jpg" width="160px" height="300px" title="Calendar" alt="Calendar"></img></br></br>
 
 ### 비디오 다이어리
 유튜브 비디오를 다이어리에 등록하고 그에 따른 내용을 작성할 수 있는 애플리케이션입니다.
