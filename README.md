@@ -10,15 +10,15 @@
 카카오톡과 유사한 SMS 애플리케이션입니다.
 
 #### Features
-소셜 로그인
+##### 소셜 로그인
 * Firebase에서 직접적으로 API를 지원하는 페이스북과 구글 로그인을 구현했습니다.
 * Firebase의 Functions을 이용하여 Firebase API에서 직접적으로 지원하지 않는 네이버와 카카오 로그인을 구현했습니다.</br></br>
 <img src="images/jjabkaotalk/social_login.jpg" width="160px" height="300px" title="Social Login" alt="Social Login"></img>
 <img src="images/jjabkaotalk/sign_in_00.jpg" width="160px" height="300px" title="Sign-In" alt="Sign-In"></img>
 <img src="images/jjabkaotalk/sign_in_01.jpg" width="160px" height="300px" title="Sign-In" alt="Sign-In"></img></br></br>
 
-프로필 생성, 친구 추가
-채팅방 생성, 채팅, 채팅방 나가기
+##### 프로필 생성, 친구 추가
+##### 채팅방 생성, 채팅, 채팅방 나가기
 * Firestore Query를 사용하여 지역별 오픈 채팅방을 구현했습니다.
 * Firebase Firestore를 사용하여 채팅, 프로필 생성, 친구 추가 기능을 구현했습니다.
 * 카카오톡의 읽음, 읽지 않은 메시지 카운트를 구현했습니다.</br></br>
@@ -40,7 +40,7 @@
 https://play.google.com/store/apps/details?id=com.grand.duke.elliot.jjabkaotalk
 
 ### 포토 다이어리
-### Description
+#### Description
 사진, 동영상, 오디오 및 현재 위치 등을 함께 기록할 수 있는 다기능 다이어리 애플리케이션입니다.
 
 #### Features
@@ -71,7 +71,9 @@ https://play.google.com/store/apps/details?id=com.grand.duke.elliot.jjabkaotalk
 잠금 화면을 지원합니다.
 * 보안을 위해 잠금 화면을 설정할 수 있습니다.
 * 지문 인식 기능을 지원합니다.
-* 비밀번호 찾기 기능을 지원합니다.
+* 비밀번호 찾기 기능을 지원합니다.</br></br>
+<img src="images/photo_diary/lock_screen.jpg" width="160px" height="300px" title="Lock" alt="Lock"></img>
+<img src="images/photo_diary/lock_screen2.jpg" width="160px" height="300px" title="Lock" alt="Lock"></img></br></br>
 
 테마 지원
 * 폰트, 색상 및 야간 모드 테마를 지원합니다.
