@@ -10,7 +10,7 @@
 카카오톡과 유사한 SMS 애플리케이션입니다.
 
 #### Features
-1. 소셜 로그인
+#### 1. 소셜 로그인
 * Firebase에서 직접적으로 API를 지원하는 페이스북과 구글 로그인을 구현했습니다.
 * Firebase의 Functions을 이용하여 Firebase API에서 직접적으로 지원하지 않는 네이버와 카카오 로그인을 구현했습니다.</br></br>
 <img src="images/jjabkaotalk/social_login.jpg" width="160px" height="300px" title="Social Login" alt="Social Login"></img>
