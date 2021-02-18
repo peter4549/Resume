@@ -45,14 +45,16 @@ https://play.google.com/store/apps/details?id=com.grand.duke.elliot.jjabkaotalk
 
 #### Features
 * 지도 정보를 다이어리에 저장할 수 있습니다.
-* 구글맵 API를 사용하여 현재 위치 정보를 가져올 수 있습니다.
-
+* 구글맵 API를 사용하여 현재 위치 정보를 가져올 수 있습니다.</br>
+<img src="images/photo_diary/map.jpg" width="160px" height="300px" title="Map" alt="Map"></img></br></br>
 
 #### 다양한 미디어 등록을 지원합니다.
 * 사진, 동영상 및 음성 파일을 지원합니다.
 * 오픈소스 라이브러리를 이용한 그림 그리기 및 사진 편집 기능을 지원합니다.
-
-폴더와 해시태그 및 날씨를 지정할 수 있습니다.
+* 폴더와 해시태그 및 날씨를 지정할 수 있습니다.</br>
+<img src="images/photo_diary/writing.jpg" width="160px" height="300px" title="Writing" alt="Writing"></img>
+<img src="images/photo_diary/image_edit.jpg" width="160px" height="300px" title="Edit" alt="Edit"></img>
+<img src="images/photo_diary/image_crop.jpg" width="160px" height="300px" title="Crop" alt="Crop"></img></br></br>
 
 #### 공유
 문자, 이메일 및 카카오톡으로 작성한 노트를 공유할 수 있습니다.
@@ -64,6 +66,7 @@ https://play.google.com/store/apps/details?id=com.grand.duke.elliot.jjabkaotalk
 데이터 백업을 지원합니다.
 * 등록된 계정의 구글 드라이브에 데이터를 백업할 수 있습니다.
 * 디바이스 저장소에 데이터를 백업할 수 있습니다.
+<img src="images/photo_diary/backup.jpg" width="160px" height="300px" title="Crop" alt="Crop"></img></br></br>
 
 잠금 화면을 지원합니다.
 * 보안을 위해 잠금 화면을 설정할 수 있습니다.
