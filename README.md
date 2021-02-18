@@ -45,7 +45,7 @@ https://play.google.com/store/apps/details?id=com.grand.duke.elliot.jjabkaotalk
 
 #### Features
 * 지도 정보를 다이어리에 저장할 수 있습니다.
-* 현재 위치 정보를 가져올 수 있습니다.
+* 구글맵 API를 사용하여 현재 위치 정보를 가져올 수 있습니다.
 
 
 #### 다양한 미디어 등록을 지원합니다.
@@ -54,6 +54,9 @@ https://play.google.com/store/apps/details?id=com.grand.duke.elliot.jjabkaotalk
 
 폴더와 해시태그 및 날씨를 지정할 수 있습니다.
 
+#### 공유
+문자, 이메일 및 카카오톡으로 작성한 노트를 공유할 수 있습니다.
+페이스북 API를 사용하여 페이스북 게시글로 export 할 수 있습니다.
 
 노트별로 텍스트 테마를 지정할 수 있습니다.
 무료 폰트와 색상, 정렬 및 스타일을 지원합니다.
@@ -65,6 +68,7 @@ https://play.google.com/store/apps/details?id=com.grand.duke.elliot.jjabkaotalk
 잠금 화면을 지원합니다.
 * 보안을 위해 잠금 화면을 설정할 수 있습니다.
 * 지문 인식 기능을 지원합니다.
+* 비밀번호 찾기 기능을 지원합니다.
 
 테마 지원
 * 폰트, 색상 및 야간 모드 테마를 지원합니다.
@@ -72,6 +76,10 @@ https://play.google.com/store/apps/details?id=com.grand.duke.elliot.jjabkaotalk
 캘린더
 오픈소스 라이브러리를 이용한 캘린더를 지원합니다.
 특정일에 다이어리를 작성할 수 있고, 기념일을 등록할 수 있습니다.
+
+알림
+일일 알림을 설정할 수 있습니다.
+
 
 ### 비디오 다이어리
 유튜브 비디오를 다이어리에 등록하고 그에 따른 내용을 작성할 수 있는 애플리케이션입니다.
