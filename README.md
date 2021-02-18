@@ -61,12 +61,13 @@ https://play.google.com/store/apps/details?id=com.grand.duke.elliot.jjabkaotalk
 
 #### 3. 공유
 * 문자, 이메일 및 카카오톡으로 작성한 노트를 공유할 수 있습니다.
-* 페이스북 API를 사용하여 페이스북 게시글로 export 할 수 있습니다.
+* 페이스북 API를 사용하여 페이스북 게시글로 export 할 수 있습니다.</br></br>
+<img src="images/photo_diary/share.jpg" width="160px" height="300px" title="Share" alt="Share"></img></br></br>
 
 #### 4. 데이터 백업을 지원합니다.
 * 등록된 계정의 구글 드라이브에 데이터를 백업할 수 있습니다.
 * 디바이스 저장소에 데이터를 백업할 수 있습니다.</br></br>
-<img src="images/photo_diary/backup.jpg" width="160px" height="300px" title="Crop" alt="Crop"></img></br></br>
+<img src="images/photo_diary/backup .jpg" width="160px" height="300px" title="Backup" alt="Backup"></img></br></br>
 
 #### 5. 잠금 화면을 지원합니다.
 * 보안을 위해 잠금 화면을 설정할 수 있습니다.
