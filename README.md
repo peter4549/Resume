@@ -9,6 +9,9 @@
 #### Description
 카카오톡과 유사한 SMS 애플리케이션입니다.
 
+### Git
+https://github.com/peter4549/2021-01-29-jjabkaotalk
+
 #### Features
 #### 1. 소셜 로그인
 * Firebase에서 직접적으로 API를 지원하는 페이스북과 구글 로그인을 구현했습니다.
@@ -42,6 +45,9 @@ https://play.google.com/store/apps/details?id=com.grand.duke.elliot.jjabkaotalk
 ### 포토 다이어리
 #### Description
 사진, 동영상, 오디오 및 현재 위치 등을 함께 기록할 수 있는 다기능 다이어리 애플리케이션입니다.
+
+### Git
+https://github.com/peter4549/2020-09-17-photo-diary
 
 #### Features
 #### 1. 구글 맵
@@ -87,6 +93,10 @@ https://play.google.com/store/apps/details?id=com.grand.duke.elliot.jjabkaotalk
 
 ### 비디오 다이어리
 유튜브 비디오를 다이어리에 등록하고 그에 따른 내용을 작성할 수 있는 애플리케이션입니다.
+
+### Git
+https://github.com/peter4549/2021-01-18-youtube-diary
+
 ### Features
 #### 1. 유튜브 비디오 가져오기</br>
 구글 계정을 통하여 OAuth2 인증 토큰을 유튜브 데이터 API로 요청합니다.</br>
